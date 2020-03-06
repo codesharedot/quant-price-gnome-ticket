@@ -1,5 +1,8 @@
-# quant price gnome ticket 
+# quant gnome price ticker
 
-Gnome 3 desktop ticker for quant price with Python and argos. Rename to quant.1r.60s.py and put in ~/.config/argos
+Get quant price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/quant-price-gnome-ticket/](https://codesharedot.github.io/quant-price-gnome-ticket/)
 
-https://pythonbasics.org
+quant price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to quant.1r60s.py and put in ~/.config/argos
